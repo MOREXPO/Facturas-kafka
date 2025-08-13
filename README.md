@@ -145,19 +145,25 @@ Integration tests use:
 
 ### Swagger UI
 
-<img width="1897" height="970" alt="image" src="https://github.com/user-attachments/assets/0c56159f-9194-4246-9070-72c5e52a2b23" />
+<img width="1862" height="963" alt="image" src="https://github.com/user-attachments/assets/a8d67285-2731-41f6-8adb-8d08b842a32d" />
+
+<img width="1885" height="930" alt="image" src="https://github.com/user-attachments/assets/352867e9-bc13-4ef0-bd3c-0c1d91847395" />
 
 ### Kafka Message Publishing
 
-<img width="1176" height="772" alt="image" src="https://github.com/user-attachments/assets/898b28ab-a35b-47fa-9786-8f03315b10ed" />
+<img width="1241" height="839" alt="image" src="https://github.com/user-attachments/assets/4dbcf9e9-8f4c-4432-b3de-a492aef83665" />
+
+<img width="1165" height="782" alt="image" src="https://github.com/user-attachments/assets/12a5ae56-5ed4-421c-b99c-3dcf94673564" />
 
 ### Validated Invoice in XML
 
-<img width="977" height="197" alt="image" src="https://github.com/user-attachments/assets/e66c3a9d-7041-4bcf-a015-54b2f9fcf57e" />
+<img width="972" height="144" alt="image" src="https://github.com/user-attachments/assets/cf773045-fcb6-4d5f-a75f-84ac6875ae96" />
+
+<img width="373" height="127" alt="image" src="https://github.com/user-attachments/assets/30da2d06-3a87-4e18-9e5a-44911c098097" />
 
 ### Invalid Invoice Storage in H2
 
-<img width="1061" height="808" alt="image" src="https://github.com/user-attachments/assets/3cd6c86b-5ee8-47f2-8730-8f230dd959a1" />
+<img width="1274" height="819" alt="image" src="https://github.com/user-attachments/assets/c107fcd4-7d1c-4af2-9cbb-611737f3f081" />
 
-<img width="1803" height="975" alt="image" src="https://github.com/user-attachments/assets/2bde2d0f-bc32-4cad-9d7a-d46095b57da8" />
+<img width="1507" height="975" alt="image" src="https://github.com/user-attachments/assets/eb0bf95e-8982-455a-909c-e22e972d79e8" />
 
